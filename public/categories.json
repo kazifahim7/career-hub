@@ -1,0 +1,31 @@
+[
+    {
+        "id":1,
+        "logo":"https://i.ibb.co/ZY9q3W3/revenue-operations-concept.jpg",
+        "category_name":"Account & Finance",
+        "availability":"300 Jobs Available"
+
+    },
+    {
+        "id":2,
+        "logo":"https://i.ibb.co/Pr3pMfx/abstract-multi-colored-illustration-nature-vibrant-beauty-generated-by-ai.jpg",
+        "category_name":"Creative Design",
+        "availability":"100+ Jobs Available"
+
+    },
+    {
+        "id":3,
+        "logo":"https://i.ibb.co/vB2Q9fr/corporate-management-strategy-solution-branding-concept.jpg",
+        "category_name":"Marketing & Sales",
+        "availability":"150 Jobs Available"
+
+    },
+    {
+        "id":4,
+        "logo":"https://i.ibb.co/qDVCvMS/two-colleagues-factory.jpg",
+        "category_name":"Engineering Job",
+        "availability":"224 Jobs Available"
+
+    }
+
+]
